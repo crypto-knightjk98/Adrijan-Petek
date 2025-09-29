@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="img/github-header-banner (14).png" alt="Header Banner" style="
+  <img src="img/github-header-banner (5).png" alt="Header Banner" style="
     width: 100%; 
     max-height: 280px; 
     object-fit: cover; 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Adrijan-Petek&color=blue&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/Adrijan-Petek?color=blue&style=for-the-badge)
 
 # 👋 Hi, I'm Adrijan Petek
 
@@ -50,15 +50,15 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 </div>
 
-**Today's Focus**: Smart Contract Security 🎯
+**Today's Focus**: Advanced Python OOP 🎯
 
 ---
 
 ## 🚀 Projects
 
 - **[Python Beginners](https://github.com/Adrijan-Petek/python-beginners)** – Step-by-step Python tutorials
-- **[Farcaster Mini Apps](https://farcaster.xyz/adrijan)** – Exploring decentralized applications
-- **[Mobb Chain](https://www.mobbchain.xyz)** 🔥 – Blockchain innovation platform
+- **[Farcaster Mini Apps](https://farcaster.xyz/adrijan)** 🔥 – Exploring decentralized applications
+- **[Mobb Chain](https://www.mobbchain.xyz)** – Blockchain innovation platform
 
 ---
 
@@ -149,5 +149,5 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 ---
 
-⭐️ **Last Updated**: 2025-09-28 01:40:29  
+⭐️ **Last Updated**: 2025-09-29 01:27:01  
 *This README updates daily with new content!* ✨
