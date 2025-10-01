@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=None&center=true&vCenter=true&width=940&lines=AI+Integration+Specialist;Cloud+Architecture;DevOps+Engineer;Agile+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=None&center=true&vCenter=true&width=940&lines=Code+Quality+Advocate;UI/UX+Designer;Tech+Blog+Writer;Community+Builder" alt="Typing SVG" />
 </p>
 
 
 <div align="center">
-  <img src="img/github-header-banner (17).png" alt="Header Banner" style="
+  <img src="img/github-header-banner (3).png" alt="Header Banner" style="
     width: 100%; 
     max-height: 280px; 
     object-fit: cover; 
@@ -25,7 +25,7 @@
 
 # 👋 Hi, I'm Adrijan Petek
 
-⭐️ **Passionate Coder & Continuous Learner**
+🔥 **Turning Ideas into Production-Ready Applications**
 
 Currently working on [Mobb Chain](https://www.mobbchain.xyz) and experimenting with Farcaster mini apps 🌐.  
 I document my learning journey in Python, Solidity, Web Development, and Blockchain projects in this repository and others 📂 [python-beginners](https://github.com/Adrijan-Petek/python-beginners).  
@@ -50,15 +50,15 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 </div>
 
-**Today's Focus**: DApp Development 🎯
+**Today's Focus**: Smart Contract Security 🎯
 
 ---
 
 ## 🚀 Projects
 
 - **[Python Beginners](https://github.com/Adrijan-Petek/python-beginners)** – Step-by-step Python tutorials
-- **[Farcaster Mini Apps](https://farcaster.xyz/adrijan)** – Exploring decentralized applications
-- **[Mobb Chain](https://www.mobbchain.xyz)** 🔥 – Blockchain innovation platform
+- **[Farcaster Mini Apps](https://farcaster.xyz/adrijan)** 🔥 – Exploring decentralized applications
+- **[Mobb Chain](https://www.mobbchain.xyz)** – Blockchain innovation platform
 
 ---
 
@@ -86,7 +86,7 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 <!-- Contribution Graph (replacing streak) -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=monokai&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=high-contrast&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
 </div>
 
 <!-- GitHub Streak -->
@@ -149,5 +149,5 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 ---
 
-⭐️ **Last Updated**: 2025-09-30 01:25:09  
+⭐️ **Last Updated**: 2025-10-01 01:42:20  
 *This README updates daily with new content!* ✨
