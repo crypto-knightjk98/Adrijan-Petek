@@ -1,19 +1,19 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=None&center=true&vCenter=true&width=940&lines=Full-Stack+Developer;Blockchain+Builder;Crypto+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=None&center=true&vCenter=true&width=940&lines=Generate+Beautiful+READMEs;Professional+Documentation;Automated+Repository+Analysis;Social+Media+Integration" alt="Typing SVG" />
 </p>
 
 
 <div align="center">
-  <img src="img/github-header-banner (19).png" alt="Header Banner" style="
+  <img src="img/github-header-banner (15).png" alt="Header Banner" style="
     width: 100%; 
     max-height: 280px; 
     object-fit: cover; 
-    border-radius: 20px;
-    box-shadow: 0 10px 25px rgba(139, 92, 246, 0.3);
-    border: 3px solid #8B5CF6;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
     
-    filter: hue-rotate(10deg);
+    
+    filter: none;
     margin-bottom: 1.5rem;
   " />
 </div>
@@ -21,11 +21,11 @@
 
 <div align="center">
 
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Adrijan-Petek?color=yellow&style=for-the-badge) ![Forks](https://img.shields.io/github/forks/Adrijan-Petek/python-beginners?color=green&style=for-the-badge)
 
 # 👋 Hi, I'm Adrijan Petek
 
-🎯 **Focused on Quality Code & User Experience**
+⭐️ **Passionate Coder & Continuous Learner**
 
 Currently working on [Mobb Chain](https://www.mobbchain.xyz) and experimenting with Farcaster mini apps 🌐.  
 I document my learning journey in Python, Solidity, Web Development, and Blockchain projects in this repository and others 📂 [python-beginners](https://github.com/Adrijan-Petek/python-beginners).  
@@ -50,15 +50,15 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 </div>
 
-**Today's Focus**: TypeScript Advanced Patterns 🎯
+**Today's Focus**: DApp Development 🎯
 
 ---
 
 ## 🚀 Projects
 
-- **[Python Beginners](https://github.com/Adrijan-Petek/python-beginners)** – Step-by-step Python tutorials
+- **[Python Beginners](https://github.com/Adrijan-Petek/python-beginners)** 🔥 – Step-by-step Python tutorials
 - **[Farcaster Mini Apps](https://farcaster.xyz/adrijan)** – Exploring decentralized applications
-- **[Mobb Chain](https://www.mobbchain.xyz)** 🔥 – Blockchain innovation platform
+- **[Mobb Chain](https://www.mobbchain.xyz)** – Blockchain innovation platform
 
 ---
 
@@ -76,22 +76,22 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Adrijan-Petek&show_icons=true&theme=onedark&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Adrijan-Petek&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrijan-Petek&layout=compact&theme=onedark&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrijan-Petek&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <!-- Contribution Graph (replacing streak) -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=nord&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=dark&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
 </div>
 
 <!-- GitHub Streak -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrijan-Petek&theme=onedark&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrijan-Petek&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 <!-- Custom Achievement Badges (replacing languages) -->
@@ -149,5 +149,5 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 ---
 
-⭐️ **Last Updated**: 2025-10-29 01:41:29  
+⭐️ **Last Updated**: 2025-10-30 01:41:05  
 *This README updates daily with new content!* ✨
