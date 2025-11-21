@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="img/github-header-banner (5).png" alt="Header Banner" style="
+  <img src="img/github-header-banner (21).png" alt="Header Banner" style="
     width: 100%; 
     max-height: 280px; 
     object-fit: cover; 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-Web3-blue?style=for-the-badge) ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-orange?style=for-the-badge)
 
 # 👋 Hi, I'm Adrijan Petek
 
@@ -50,7 +50,7 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 </div>
 
-**Today's Focus**: DApp Development 🎯
+**Today's Focus**: TypeScript Advanced Patterns 🎯
 
 ---
 
@@ -86,7 +86,7 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 <!-- Contribution Graph (replacing streak) -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=dracula&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=synthwave&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
 </div>
 
 <!-- GitHub Streak -->
@@ -149,5 +149,5 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 ---
 
-⭐️ **Last Updated**: 2025-11-20 01:38:13  
+⭐️ **Last Updated**: 2025-11-21 01:39:04  
 *This README updates daily with new content!* ✨
