@@ -1,19 +1,19 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=None&center=true&vCenter=true&width=940&lines=Mobile+App+Developer;Cross-Platform+Expert;Performance+Optimizer;Security+Focused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=None&center=true&vCenter=true&width=940&lines=AI+Integration+Specialist;Cloud+Architecture;DevOps+Engineer;Agile+Practitioner" alt="Typing SVG" />
 </p>
 
 
 <div align="center">
-  <img src="img/github-header-banner (7).png" alt="Header Banner" style="
+  <img src="img/github-header-banner (9).png" alt="Header Banner" style="
     width: 100%; 
     max-height: 280px; 
     object-fit: cover; 
-    border-radius: 25px;
-    box-shadow: none;
-    border: 3px solid #10B981;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.4);
     
-    filter: drop-shadow(0 8px 16px rgba(16, 185, 129, 0.3));
+    transform: rotate(-1deg);
+    filter: contrast(1.1);
     margin-bottom: 1.5rem;
   " />
 </div>
@@ -25,7 +25,7 @@
 
 # 👋 Hi, I'm Adrijan Petek
 
-💻 **Ruby | TypeScript | Python Developer**
+🔗 **Building the Future of Web3 & Blockchain**
 
 Currently working on [Mobb Chain](https://www.mobbchain.xyz) and experimenting with Farcaster mini apps 🌐.  
 I document my learning journey in Python, Solidity, Web Development, and Blockchain projects in this repository and others 📂 [python-beginners](https://github.com/Adrijan-Petek/python-beginners).  
@@ -76,22 +76,22 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Adrijan-Petek&show_icons=true&theme=onedark&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Adrijan-Petek&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrijan-Petek&layout=compact&theme=onedark&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrijan-Petek&layout=compact&theme=dark&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <!-- Contribution Graph (replacing streak) -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=tokyo-night&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=great-gatsby&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
 </div>
 
 <!-- GitHub Streak -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrijan-Petek&theme=onedark&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrijan-Petek&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 <!-- Custom Achievement Badges (replacing languages) -->
@@ -149,5 +149,5 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 ---
 
-⭐️ **Last Updated**: 2026-01-06 01:49:00  
+⭐️ **Last Updated**: 2026-01-07 01:48:43  
 *This README updates daily with new content!* ✨
