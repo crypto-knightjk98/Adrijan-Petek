@@ -5,15 +5,15 @@
 
 
 <div align="center">
-  <img src="img/github-header-banner (6).png" alt="Header Banner" style="
+  <img src="img/github-header-banner (20).png" alt="Header Banner" style="
     width: 100%; 
     max-height: 280px; 
     object-fit: cover; 
-    border-radius: 15px;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.4);
     
-    
-    filter: none;
+    transform: rotate(-1deg);
+    filter: contrast(1.1);
     margin-bottom: 1.5rem;
   " />
 </div>
@@ -21,11 +21,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adrijan-Petek&color=blue&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/Adrijan-Petek?color=blue&style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge)
 
 # 👋 Hi, I'm Adrijan Petek
 
-🎯 **Focused on Quality Code & User Experience**
+💻 **Ruby | TypeScript | Python Developer**
 
 Currently working on [Mobb Chain](https://www.mobbchain.xyz) and experimenting with Farcaster mini apps 🌐.  
 I document my learning journey in Python, Solidity, Web Development, and Blockchain projects in this repository and others 📂 [python-beginners](https://github.com/Adrijan-Petek/python-beginners).  
@@ -50,14 +50,14 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 </div>
 
-**Today's Focus**: Advanced Python OOP 🎯
+**Today's Focus**: Web3 Integration 🎯
 
 ---
 
 ## 🚀 Projects
 
-- **[Python Beginners](https://github.com/Adrijan-Petek/python-beginners)** – Step-by-step Python tutorials
-- **[Farcaster Mini Apps](https://farcaster.xyz/adrijan)** 🔥 – Exploring decentralized applications
+- **[Python Beginners](https://github.com/Adrijan-Petek/python-beginners)** 🔥 – Step-by-step Python tutorials
+- **[Farcaster Mini Apps](https://farcaster.xyz/adrijan)** – Exploring decentralized applications
 - **[Mobb Chain](https://www.mobbchain.xyz)** – Blockchain innovation platform
 
 ---
@@ -76,22 +76,22 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Adrijan-Petek&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Adrijan-Petek&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrijan-Petek&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrijan-Petek&layout=compact&theme=dark&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <!-- Contribution Graph (replacing streak) -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=gruvbox&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=bear&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
 </div>
 
 <!-- GitHub Streak -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrijan-Petek&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrijan-Petek&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 <!-- Custom Achievement Badges (replacing languages) -->
@@ -149,5 +149,5 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 ---
 
-⭐️ **Last Updated**: 2026-02-15 02:25:10  
+⭐️ **Last Updated**: 2026-02-16 02:21:49  
 *This README updates daily with new content!* ✨
