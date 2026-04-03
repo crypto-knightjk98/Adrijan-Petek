@@ -1,19 +1,19 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=None&center=true&vCenter=true&width=940&lines=Smart+Contract+Developer;DApp+Creator;DeFi+Explorer;NFT+Artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=None&center=true&vCenter=true&width=940&lines=AI+Integration+Specialist;Cloud+Architecture;DevOps+Engineer;Agile+Practitioner" alt="Typing SVG" />
 </p>
 
 
 <div align="center">
-  <img src="img/github-header-banner (9).png" alt="Header Banner" style="
+  <img src="img/github-header-banner (19).png" alt="Header Banner" style="
     width: 100%; 
     max-height: 280px; 
     object-fit: cover; 
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    border: 3px dashed #6366F1;
+    border-radius: 25px;
+    box-shadow: none;
+    border: 3px solid #10B981;
     
-    filter: saturate(1.2);
+    filter: drop-shadow(0 8px 16px rgba(16, 185, 129, 0.3));
     margin-bottom: 1.5rem;
   " />
 </div>
@@ -21,11 +21,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adrijan-Petek&color=blue&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/Adrijan-Petek?color=blue&style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-Web3-blue?style=for-the-badge) ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-orange?style=for-the-badge)
 
 # 👋 Hi, I'm Adrijan Petek
 
-🌐 **Creating Innovative Digital Solutions**
+🔥 **Turning Ideas into Production-Ready Applications**
 
 Currently working on [Mobb Chain](https://www.mobbchain.xyz) and experimenting with Farcaster mini apps 🌐.  
 I document my learning journey in Python, Solidity, Web Development, and Blockchain projects in this repository and others 📂 [python-beginners](https://github.com/Adrijan-Petek/python-beginners).  
@@ -50,7 +50,7 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 </div>
 
-**Today's Focus**: TypeScript Advanced Patterns 🎯
+**Today's Focus**: DApp Development 🎯
 
 ---
 
@@ -86,7 +86,7 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 <!-- Contribution Graph (replacing streak) -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=nord&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=rose-pine&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
 </div>
 
 <!-- GitHub Streak -->
@@ -149,5 +149,5 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 ---
 
-⭐️ **Last Updated**: 2026-04-02 02:27:23  
+⭐️ **Last Updated**: 2026-04-03 02:28:54  
 *This README updates daily with new content!* ✨
