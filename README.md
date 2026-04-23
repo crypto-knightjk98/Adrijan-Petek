@@ -5,15 +5,15 @@
 
 
 <div align="center">
-  <img src="img/github-header-banner (5).png" alt="Header Banner" style="
+  <img src="img/github-header-banner (13).png" alt="Header Banner" style="
     width: 100%; 
     max-height: 280px; 
     object-fit: cover; 
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    border: 3px dashed #6366F1;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
     
-    filter: saturate(1.2);
+    
+    filter: none;
     margin-bottom: 1.5rem;
   " />
 </div>
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Adrijan-Petek&color=blue&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/Adrijan-Petek?color=blue&style=for-the-badge)
 
 # 👋 Hi, I'm Adrijan Petek
 
@@ -50,7 +50,7 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 </div>
 
-**Today's Focus**: TypeScript Advanced Patterns 🎯
+**Today's Focus**: DApp Development 🎯
 
 ---
 
@@ -76,22 +76,22 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Adrijan-Petek&show_icons=true&theme=merko&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Adrijan-Petek&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrijan-Petek&layout=compact&theme=merko&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrijan-Petek&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <!-- Contribution Graph (replacing streak) -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=codeSTACKr&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=github-light&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
 </div>
 
 <!-- GitHub Streak -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrijan-Petek&theme=merko&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrijan-Petek&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 <!-- Custom Achievement Badges (replacing languages) -->
@@ -149,5 +149,5 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 ---
 
-⭐️ **Last Updated**: 2026-04-22 02:39:19  
+⭐️ **Last Updated**: 2026-04-23 02:43:01  
 *This README updates daily with new content!* ✨
