@@ -5,15 +5,15 @@
 
 
 <div align="center">
-  <img src="img/github-header-banner (18).png" alt="Header Banner" style="
+  <img src="img/github-header-banner (11).png" alt="Header Banner" style="
     width: 100%; 
     max-height: 280px; 
     object-fit: cover; 
-    border-radius: 0px;
-    box-shadow: 0 12px 30px rgba(0,0,0,0.5);
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(79, 70, 229, 0.3);
+    border: 3px solid #4F46E5;
     
-    
-    filter: sepia(0.2);
+    filter: brightness(1.05);
     margin-bottom: 1.5rem;
   " />
 </div>
@@ -21,11 +21,11 @@
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/Adrijan-Petek?color=yellow&style=for-the-badge) ![Forks](https://img.shields.io/github/forks/Adrijan-Petek/python-beginners?color=green&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Adrijan-Petek&color=blue&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/Adrijan-Petek?color=blue&style=for-the-badge)
 
 # 👋 Hi, I'm Adrijan Petek
 
-⭐️ **Passionate Coder & Continuous Learner**
+🎯 **Focused on Quality Code & User Experience**
 
 Currently working on [Mobb Chain](https://www.mobbchain.xyz) and experimenting with Farcaster mini apps 🌐.  
 I document my learning journey in Python, Solidity, Web Development, and Blockchain projects in this repository and others 📂 [python-beginners](https://github.com/Adrijan-Petek/python-beginners).  
@@ -50,15 +50,15 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 </div>
 
-**Today's Focus**: React Fundamentals 🎯
+**Today's Focus**: Advanced Python OOP 🎯
 
 ---
 
 ## 🚀 Projects
 
 - **[Python Beginners](https://github.com/Adrijan-Petek/python-beginners)** – Step-by-step Python tutorials
-- **[Farcaster Mini Apps](https://farcaster.xyz/adrijan)** – Exploring decentralized applications
-- **[Mobb Chain](https://www.mobbchain.xyz)** 🔥 – Blockchain innovation platform
+- **[Farcaster Mini Apps](https://farcaster.xyz/adrijan)** 🔥 – Exploring decentralized applications
+- **[Mobb Chain](https://www.mobbchain.xyz)** – Blockchain innovation platform
 
 ---
 
@@ -86,7 +86,7 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 <!-- Contribution Graph (replacing streak) -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=vue-dark&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=shades-of-purple&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
 </div>
 
 <!-- GitHub Streak -->
@@ -149,5 +149,5 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 ---
 
-⭐️ **Last Updated**: 2026-08-08 01:40:11  
+⭐️ **Last Updated**: 2026-08-09 01:45:35  
 *This README updates daily with new content!* ✨
