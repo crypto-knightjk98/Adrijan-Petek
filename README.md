@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="img/github-header-banner (1).png" alt="Header Banner" style="
+  <img src="img/github-header-banner (7).png" alt="Header Banner" style="
     width: 100%; 
     max-height: 280px; 
     object-fit: cover; 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/Adrijan-Petek?color=yellow&style=for-the-badge) ![Forks](https://img.shields.io/github/forks/Adrijan-Petek/python-beginners?color=green&style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-Web3-blue?style=for-the-badge) ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-orange?style=for-the-badge)
 
 # 👋 Hi, I'm Adrijan Petek
 
@@ -50,15 +50,15 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 </div>
 
-**Today's Focus**: React Fundamentals 🎯
+**Today's Focus**: Web3 Integration 🎯
 
 ---
 
 ## 🚀 Projects
 
 - **[Python Beginners](https://github.com/Adrijan-Petek/python-beginners)** – Step-by-step Python tutorials
-- **[Farcaster Mini Apps](https://farcaster.xyz/adrijan)** 🔥 – Exploring decentralized applications
-- **[Mobb Chain](https://www.mobbchain.xyz)** – Blockchain innovation platform
+- **[Farcaster Mini Apps](https://farcaster.xyz/adrijan)** – Exploring decentralized applications
+- **[Mobb Chain](https://www.mobbchain.xyz)** 🔥 – Blockchain innovation platform
 
 ---
 
@@ -86,7 +86,7 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 <!-- Contribution Graph (replacing streak) -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=solarized-light&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=material&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
 </div>
 
 <!-- GitHub Streak -->
@@ -149,5 +149,5 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 ---
 
-⭐️ **Last Updated**: 2026-09-07 03:16:59  
+⭐️ **Last Updated**: 2026-09-08 03:24:20  
 *This README updates daily with new content!* ✨
