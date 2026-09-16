@@ -5,15 +5,15 @@
 
 
 <div align="center">
-  <img src="img/github-header-banner (4).png" alt="Header Banner" style="
+  <img src="img/github-header-banner (15).png" alt="Header Banner" style="
     width: 100%; 
     max-height: 280px; 
     object-fit: cover; 
-    border-radius: 0px;
-    box-shadow: 0 12px 30px rgba(0,0,0,0.5);
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
     
     
-    filter: sepia(0.2);
+    filter: none;
     margin-bottom: 1.5rem;
   " />
 </div>
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/Adrijan-Petek?color=yellow&style=for-the-badge) ![Forks](https://img.shields.io/github/forks/Adrijan-Petek/python-beginners?color=green&style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge)
 
 # 👋 Hi, I'm Adrijan Petek
 
@@ -50,15 +50,15 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 </div>
 
-**Today's Focus**: TypeScript Advanced Patterns 🎯
+**Today's Focus**: Advanced Python OOP 🎯
 
 ---
 
 ## 🚀 Projects
 
-- **[Python Beginners](https://github.com/Adrijan-Petek/python-beginners)** 🔥 – Step-by-step Python tutorials
+- **[Python Beginners](https://github.com/Adrijan-Petek/python-beginners)** – Step-by-step Python tutorials
 - **[Farcaster Mini Apps](https://farcaster.xyz/adrijan)** – Exploring decentralized applications
-- **[Mobb Chain](https://www.mobbchain.xyz)** – Blockchain innovation platform
+- **[Mobb Chain](https://www.mobbchain.xyz)** 🔥 – Blockchain innovation platform
 
 ---
 
@@ -86,7 +86,7 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 <!-- Contribution Graph (replacing streak) -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=gruvbox&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrijan-Petek&theme=dark&hide_border=true&bg_color=00000000&height=300" alt="GitHub Contribution Graph" />
 </div>
 
 <!-- GitHub Streak -->
@@ -149,5 +149,5 @@ I document my learning journey in Python, Solidity, Web Development, and Blockch
 
 ---
 
-⭐️ **Last Updated**: 2026-09-15 03:44:47  
+⭐️ **Last Updated**: 2026-09-16 03:41:41  
 *This README updates daily with new content!* ✨
